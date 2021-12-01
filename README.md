@@ -8,5 +8,5 @@ I might write to a file.
 ```bash
 # reads hexadecimal 40 (64 in decimal) as a byte and writes it
 printf 40 | print-binary.py --mode 16
-@
+# prints @
 ```
